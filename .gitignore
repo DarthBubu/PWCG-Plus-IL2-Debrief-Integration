@@ -1,0 +1,9 @@
+# Do not casually publish analyser binaries or personal/raw runtime data
+*.exe
+*.dll
+*.key
+*.pem
+.env
+secrets/
+private/
+tmp/
