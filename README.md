@@ -2,6 +2,12 @@
 
 Public interoperability and validation workspace for integrating **PWCG+** with the factual debrief analyser supplied by Alexander Bleiholder (Arrow_1974), creator of **IL-2 Campaign Tracker**.
 
+## Provenance first
+
+**PWCG+ is a community enhancement based on Patrick Wilson's Pat Wilson Campaign Generator (PWCG).** The substantial underlying campaign generator is Pat Wilson's work; this project does not claim authorship of the original PWCG. The frozen upstream source currently used by PWCG+ is PWCGDeveloper/PWCGCampaign at commit `9d81519059d8176a7e621b61e42b649d27a080b9`.
+
+The frozen upstream tree does not contain a project-wide LICENSE/COPYING/NOTICE file. Accordingly, this project does **not** label Pat's code MIT, GPL, public domain, or otherwise invent licence terms. PWCG+ release rights and attribution are tracked through actual upstream notices and Patrick Wilson permission provenance. See [docs/LICENSING_AND_PACKAGING.md](docs/LICENSING_AND_PACKAGING.md).
+
 ## Purpose
 
 The intended user flow is:
